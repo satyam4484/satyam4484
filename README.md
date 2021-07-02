@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam4484&label=Profile%20views&color=0e75b6&style=flat" alt="satyam4484" /> </p>
 <img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
 
-- 🔭 I’m currently working on **Pinterest -clone**
+- 🔭 I’m currently working on **Nothing - thinking what to do next **
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on [A Coding Blog](https://github.com/satyam4484/A_Coding_Blog)
+- 👯 I’m looking to collaborate on [A Coding Blog](https://github.com/satyam4484/A_Coding_Blog) and [Pinterest clone](https://github.com/satyam4484/Pinterest---clone)
 
 - 💬 Ask me about **Competitive Programming , c++**
 
