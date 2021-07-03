@@ -1,6 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A93F7&size=25&center=true&width=600&lines=Welcome+to+My+Repository+!+Do+Contribute+)](https://git.io/typing-svg)
+
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <h1 align="center">Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px"> I'm Satyam Singh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam4484&label=Profile%20views&color=0e75b6&style=flat" alt="satyam4484" /> </p>
 <img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
