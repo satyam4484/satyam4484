@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Revising the previous concepts of DSA**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django & javascript**
 
 - 👯 I’m looking to collaborate on [A Coding Blog](https://github.com/satyam4484/A_Coding_Blog) and [Pinterest clone](https://github.com/satyam4484/Pinterest---clone)
 
