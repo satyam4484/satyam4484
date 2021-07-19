@@ -38,6 +38,11 @@
 
 
 <!--START_SECTION:waka-->
+```text
+Python   29 mins         ████████████░░░░░░░░░░░░░   47.80 % 
+HTML     29 mins         ████████████░░░░░░░░░░░░░   47.62 % 
+JSON     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+```
 <!--END_SECTION:waka-->
 
 <h3 align="left">My Daily tools </h3>
