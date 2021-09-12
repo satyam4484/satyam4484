@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam4484&label=Profile%20views&color=0e75b6&style=flat" alt="satyam4484" /> </p>
 <img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
 
-- 🔭 I’m currently working on **Revising the previous concepts of DSA**
+- 🔭 I’m currently working on **React and django rest framework**
 
 - 🌱 I’m currently learning **Django & javascript**
 
