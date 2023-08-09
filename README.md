@@ -1,52 +1,28 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A93F7&size=25&center=true&width=600&lines=Welcome+to+My+Repository+!+Do+Contribute+)](https://git.io/typing-svg)
-
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<h1 align="center">Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px"> I'm Satyam Singh</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+# 💫 About Me:
+👋 Hi there! I'm Satyam Singh, a versatile full-stack developer with a strong passion for crafting seamless digital experiences. With a deep understanding of both frontend and backend technologies, I'm equipped to bring ideas to life from concept to deployment.<br><br>🌐 My journey in the world of software began with a curiosity-driven exploration of programming languages and web development. Over the years, I've honed my skills in creating responsive and user-friendly interfaces using HTML, CSS, and JavaScript. Whether it's turning wireframes into dynamic web applications or architecting the backend logic, I thrive on the challenge of turning complex problems into elegant solutions.<br><br>💼 As someone who loves to collaborate and thrives in a team environment, I'm always eager to connect with fellow developers, designers, and innovators. I believe that the best results come from diverse perspectives coming together to tackle challenges. If you're looking for a dedicated teammate who is committed to delivering high-quality code and a seamless user experience, I'm here and ready to contribute.<br><br>💡 Beyond my technical abilities, I also have a keen interest in the world of freelancing. I understand the unique demands and opportunities that freelancing brings, and I'm excited to take on projects that allow me to apply my skills in meaningful and impactful ways. Whether it's a small business website, a dynamic web app, or a larger-scale project, I'm open to collaboration and ready to bring your vision to fruition.<br><br>🚀 So, if you're looking to create something extraordinary, whether it's a web application, a portfolio site, or an e-commerce platform, let's connect and explore how we can work together to make it happen. Feel free to reach out and let's embark on a journey of innovation and creativity in the world of software development!<br><br>Let's code, collaborate, and create something amazing. Get in touch with me at satyambsingh93@gmail.com or connect with me here on GitHub. Looking forward to our next project! 🤝
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam4484&label=Profile%20views&color=0e75b6&style=flat" alt="satyam4484" /> </p>
-<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam4484) 
 
-- 🔭 I’m currently working on **React and django rest framework**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=satyam4484&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=satyam4484&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam4484&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **Django & javascript**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=satyam4484&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
-- 👯 I’m looking to collaborate on [A Coding Blog](https://github.com/satyam4484/A_Coding_Blog) and [Pinterest clone](https://github.com/satyam4484/Pinterest---clone)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-- 💬 Ask me about **Competitive Programming , c++**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=satyam4484&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-- 📫 How to reach me **satyambsingh93@gmail.com** **,** **[9106643997](9106643997)**
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
+---
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyam4484" alt="satyam4484" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/satyam-singh-46b0a4165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-singh-46b0a4165" height="30" width="40" /></a>
-<a href="https://instagram.com/satyam_4484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyam_4484" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/satyam_4484" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="satyam_4484" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/satyam4484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="satyam4484" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/satyam_singh93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="satyam_singh93" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/satyam_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyam_singh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@satyambsingh93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@satyambsingh93" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/satyambsingh93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satyambsingh93" height="30" width="40" /></a>
-</p>
-
-
-
-<h3 align="left">My Daily tools </h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-
-# -----------------------------------------------------------------------------------------
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam4484&show_icons=true&locale=en&layout=compact" alt="satyam4484" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam4484&show_icons=true&locale=en" alt="satyam4484" /></p>
-
-# -----------------------------------------------------------------------------------------
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam4484&" alt="satyam4484" /></p>
